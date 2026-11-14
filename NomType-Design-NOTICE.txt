@@ -1,0 +1,4 @@
+NômType interface artwork provided with the design handoff dated 14 November 2026.
+icon.png is the supplied app_icon_1024 (1).png, copied without alteration.
+Other artwork comes from NomType_Bo_giao_dien_tong_the.pdf.
+The Vườn Rin letter paper is encoded as PNG data for the existing letter background field.
